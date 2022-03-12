@@ -1,6 +1,6 @@
-#Drupal
+# Drupal
 
-##Services Included
+## Services Included
 
 - mariadb
 - php
@@ -10,7 +10,7 @@
 - solr
 - traefik
 
-##To install Drupal inside de PHP Container
+## To install Drupal inside de PHP Container
 
 Use this path in apache and php volumes : ./drupal:/var/www/html:cached
 
